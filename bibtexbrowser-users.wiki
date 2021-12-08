@@ -106,6 +106,7 @@ You can add your group/name by [[https://github.com/monperrus/bibtexbrowser/edit
 * [[http://www.cs.usask.ca/home/eramian/bib/Refereed_Journal_Articles.php|Mark Eramian, University of Saskatchewan, Canada]]
 * [[http://grapple.dcs.warwick.ac.uk/bibtexbrowser/maurice.php|Maurice Hendrix, University of Warwick, UK]]
 * [[http://telecom.inescporto.pt/~jsc/bibtexbrowser.php|Jaime dos Santos Cardoso, INESC, Portugal]]
+* [[http://halicioglu.de/#Publications|Kerem Halicioglu, Freie Universitaet Berlin, Germany]]
 
 ==== Misc ====
 * [[http://kovarik.felk.cvut.cz/ant-algorithms/bibtexbrowser-original.php|Ant algorithms bibliography, Czech Technical University, Czech Republic]]
